@@ -1,7 +1,7 @@
 # Site
 title:              Jaye TC Cho
 bio:                'an artist wannabe currently on break'
-description:        "Taiwan / USA -based homeless"
+description:        "Taiwan/US-based homeless"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/6a95d73cb68d42eca9ad9c2a4c8e06ba.jpg'
@@ -52,7 +52,7 @@ facebook:           jjjcho
 #foursquare:        username
 #steam:             username
 #dribbble:          username
-#youtube:           username
+youtube:            jchobanana
 #youtube-channel:   channel
 #soundcloud:        username
 #weibo:             username
