@@ -9,15 +9,13 @@ comments: false
 <center><a href="https://www.instagram.com/jjjcho/"><b>Jaye</b></a> is an artist wannabe that accidentally got into couple prestige MFA programs in 2018.</center>
 
 ## Brief Bio
-* born in Taiwan, 1992 (on Shakespeare Day)
-* hated by most teachers in her childhood
+* born in 1992 Taiwan on Shakespeare Day
+* hated by most teachers in childhood
 * socially awkward (extreme) 
 * was very lost in life
 * still very lost in life
-* self-proclaimed as "a person who reads a lot of books" 
-* also self-proclaimed as "a person who doesn't read enough of books"
 * know a little bit of many things, but not an expert on anything
-* forever traumatized by the incident that involved mom's death
+* forever traumatized since 2016
 
 ## Preview
 {% capture images %}
