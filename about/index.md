@@ -22,7 +22,8 @@ comments: false
 ## Preview
 
 {% capture images %}
- https://drive.google.com/file/d/0B_c7340CNfFDMGJlQmpqR3oyUE0/view?usp=sharing    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
+  <img src="assets/img/6a95d73cb68d42eca9ad9c2a4c8e06ba.jpg">
+  https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
