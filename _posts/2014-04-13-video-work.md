@@ -9,6 +9,8 @@ tag:
 - blog
 - about
 - theme
+- random
+- lame
 comments: false
 ---
 
