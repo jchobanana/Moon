@@ -9,7 +9,7 @@ comments: false
 <center><a href="https://www.instagram.com/jjjcho/"><b>Jaye</b></a> is an artist wannabe that accidentally got into couple prestige MFA programs in 2018.</center>
 
 ## Brief Bio
-* born in Taiwan, 1992 on Shakespeare Day
+* born in Taiwan, 1992 (on Shakespeare Day)
 * hated by most teachers in her childhood
 * socially awkward (extreme) 
 * was very lost in life
@@ -21,10 +21,9 @@ comments: false
 
 ## Preview
 
+<img src="assets/img/6a95d73cb68d42eca9ad9c2a4c8e06ba.jpg">
 
 {% capture images %}
-    <img src="assets/img/6a95d73cb68d42eca9ad9c2a4c8e06ba.jpg">
-
     https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
     https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
 {% endcapture %}
