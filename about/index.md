@@ -20,13 +20,11 @@ comments: false
 * forever traumatized by the incident that involved mom's death
 
 ## Preview
-<center>
 {% capture images %}
 https://drive.google.com/uc?id=1-5kPg7xyXR4H5OsY4fyeqZakatcYO90L
 
 {% endcapture %}
-{% include gallery images=images caption="<The Divine Guardians of My Door> 2017, watercolour " cols=1 %}
-</center>
+{% include gallery images=images caption="The Divine Guardians of My Door, 2017, watercolour " cols=1 %}
 
 
 ## Getting Started
