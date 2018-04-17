@@ -4,13 +4,8 @@ title:  "Video Works"
 excerpt: "I don't know what I am doing"
 project: true
 tag:
-- jekyll 
-- moon
-- blog
-- about
-- theme
-- random
-- lame
+- video
+- 2017
 comments: false
 ---
 
