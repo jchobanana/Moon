@@ -9,13 +9,15 @@ comments: false
 <center><a href="https://www.instagram.com/jjjcho/"><b>Jaye</b></a> is an artist wannabe who accidentally got into some prestige MFA programs in 2018.</center>
 
 ## Brief Bio
-* born in 1992 Taiwan on Shakespeare Day
-* hated by most teachers in childhood
-* socially awkward (extreme) 
-* was very lost in life
-* still very lost in life
-* know a little bit of many things, but not an expert on anything
-* forever traumatized since 2016
+Born in 1992 Taiwan on Shakespeare Day. Hated by most teachers in her childhood. 
+
+Socially awkward (extreme).
+
+Was very lost in life. Still very lost in life.
+
+Know a little bit of many things, but not an expert on anything.
+
+Forever traumatized since 2016.
 
 ## Education 
 * 2017-2018  School of the Art Institute of Chicago
