@@ -18,17 +18,17 @@ comments: false
 * forever traumatized since 2016
 
 ## Education 
-2017-2018  School of the Art Institute of Chicago
-2017       ArtCenter College of Design 
-2013-2015  University of California, Berkeley 
-2012-2013  Santa Monica College
-2011       University of Nevada, Las Vegas 
+* 2017-2018  School of the Art Institute of Chicago
+* 2017       ArtCenter College of Design 
+* 2013-2015  University of California, Berkeley 
+* 2012-2013  Santa Monica College
+* 2011       University of Nevada, Las Vegas 
 
 
 {% capture images %}
 https://drive.google.com/uc?id=1-5kPg7xyXR4H5OsY4fyeqZakatcYO90L
 
 {% endcapture %}
-{% include gallery images=images caption="The Divine Guardians of My Door, 2017, watercolour " cols=1 %}
+{% include gallery images=images caption="*The Divine Guardians of My Door, 2017, watercolour " cols=1 %}
 
 
