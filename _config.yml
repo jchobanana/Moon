@@ -9,6 +9,8 @@ background:         #000000
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://jchobanana.github.io
+url:                http://localhost:4000
+
 
 # Jekyll
 permalink:          /:title/
