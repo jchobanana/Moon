@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Video Works"
-date:   2014-04-13
 excerpt: "I don't know what I am doing"
 project: true
 tag:
