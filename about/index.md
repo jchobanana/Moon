@@ -22,10 +22,10 @@ comments: false
 ## Preview
 
 {% capture images %}
-https://drive.google.com/uc?id=0B_c7340CNfFDMGJlQmpqR3oyUE0
-https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
+https://drive.google.com/uc?id=1-5kPg7xyXR4H5OsY4fyeqZakatcYO90L
+
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+{% include gallery images=images caption="門神" cols=1 %}
 
 
 
