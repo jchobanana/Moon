@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Sketches(?)"
-excerpt: "Small drawings sometiimes make it into bigger project, but sometimes just go to trash can."
+title:  "Sketches (?)"
+excerpt: "Small drawings sometiimes make it into bigger projects, but most of the time just go to trash. These are the survivors from trash can."
 project: true
 tag:
-- video
+- drawing
 - 2017
 comments: false
 ---
