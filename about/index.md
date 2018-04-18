@@ -20,13 +20,13 @@ Know a little bit of many things, but not an expert on anything. <br>
 Forever traumatized since 2016.
 
 ## Education 
-* 2017-2018  School of the Art Institute of Chicago <br>
+* 2018  School of the Art Institute of Chicago <br>
     Post-Bacc in Painting & Drawing
     <p></p>
 * 2017       ArtCenter College of Design <br>
-    BFA Summer Courses
+    Only Survived One BFA Term
     <p></p>
-* 2013-2015  University of California, Berkeley <br>
+* 2015  University of California, Berkeley <br>
     BAs in Political Science & Development Studies
 <p></p>
 
@@ -38,5 +38,5 @@ Forever traumatized since 2016.
   <a href="https://drive.google.com/uc?id=1aIxrh_2SYjI5YdwW1wmRed2RhbPupt9A" class="image-popup">
     <img src="https://drive.google.com/uc?id=1aIxrh_2SYjI5YdwW1wmRed2RhbPupt9A" alt="">
   </a>
-  <figcaption> My Divine Guardians of Doors & Me </figcaption>
+  <figcaption> Divine Guardians of Doors & Me </figcaption>
 </figure>
