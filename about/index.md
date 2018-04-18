@@ -31,10 +31,12 @@ Forever traumatized since 2016.
 <p></p>
 
 
-{% capture images %}
-https://drive.google.com/uc?id=1-5kPg7xyXR4H5OsY4fyeqZakatcYO90L
-https://drive.google.com/uc?id=1T176JrqUt0-LHs4s8TvLLYnWZ7-4Jdtu
-{% endcapture %}
-{% include gallery images=images caption="*2017" cols=2 %}
-
-
+<figure class="half">
+  <a href="https://drive.google.com/uc?id=1-5kPg7xyXR4H5OsY4fyeqZakatcYO90L" class="image-popup">
+    <img src="https://drive.google.com/uc?id=1-5kPg7xyXR4H5OsY4fyeqZakatcYO90L" alt="">
+  </a>
+  <a href="https://drive.google.com/uc?id=1T176JrqUt0-LHs4s8TvLLYnWZ7-4Jdtu" class="image-popup">
+    <img src="https://drive.google.com/uc?id=1T176JrqUt0-LHs4s8TvLLYnWZ7-4Jdtu" alt="">
+  </a>
+  <figcaption>Screenshots of Moon Theme</figcaption>
+</figure>
