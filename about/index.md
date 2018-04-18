@@ -11,7 +11,7 @@ comments: false
 
 ### About  
 Born in 1992 Taiwan on Shakespeare Day. <br>
-Hated by most teachers in her childhood. **Socially awkward (extreme).**
+Hated by most teachers in her childhood. **Socially awkward (very).**
 <p></p>
 Was very lost in life.
 Still very lost in life.
@@ -28,11 +28,7 @@ Forever traumatized since 2016.
     <p></p>
 * 2013-2015  University of California, Berkeley <br>
     BAs in Political Science & Development Studies
-    <p></p>
-* 2012-2013  Santa Monica College <br>
-    Drawing Courses 
-    <p></p>
-* 2011       University of Nevada, Las Vegas <br>
+<p></p>
 
 
 {% capture images %}
