@@ -38,5 +38,5 @@ Forever traumatized since 2016.
   <a href="https://drive.google.com/uc?id=1T176JrqUt0-LHs4s8TvLLYnWZ7-4Jdtu" class="image-popup">
     <img src="https://drive.google.com/uc?id=1T176JrqUt0-LHs4s8TvLLYnWZ7-4Jdtu" alt="">
   </a>
-  <figcaption>Screenshots of Moon Theme</figcaption>
+  <figcaption> *2017</figcaption>
 </figure>
