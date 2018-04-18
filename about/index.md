@@ -9,8 +9,7 @@ comments: false
 <center><a href="https://www.instagram.com/jjjcho/"><b>Jaye</b></a> is an artist wannabe who accidentally got into some prestige MFA programs in 2018.</center>
 
 
-### About  
-:--------
+## About  
 Born in 1992 Taiwan on Shakespeare Day. <br>
 Hated by most teachers in her childhood. **Socially awkward (very).**
 <p></p>
@@ -20,8 +19,7 @@ Still very lost in life.
 Know a little bit of many things, but not an expert on anything. <br>
 Forever traumatized since 2016.
 
-### Education 
-:--------
+## Education 
 * 2017-2018  School of the Art Institute of Chicago <br>
     Post-Bacc in Painting & Drawing
     <p></p>
@@ -35,8 +33,8 @@ Forever traumatized since 2016.
 
 {% capture images %}
 https://drive.google.com/uc?id=1-5kPg7xyXR4H5OsY4fyeqZakatcYO90L
-
+https://drive.google.com/uc?id=1T176JrqUt0-LHs4s8TvLLYnWZ7-4Jdtu
 {% endcapture %}
-{% include gallery images=images caption="*The Divine Guardians of My Door, 2017, watercolour " cols=1 %}
+{% include gallery images=images caption="*2017*" cols=2 %}
 
 
