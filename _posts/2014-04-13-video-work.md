@@ -1,28 +1,29 @@
 ---
 layout: post
-title:  "Video Works"
-excerpt: "I don't know what I am doing"
+title:  "Moving Pictures"
+excerpt: "I promoise most of my videos are very short. However, if you like watching longer videos, I got some of those for you, too."
 project: true
 tag:
 - video
 - 2017
 comments: false
 ---
+<br></br>
 
-## 60 seconds of me
+## 60 seconds of me (2017)
 
 <iframe src="https://player.vimeo.com/video/248417875" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe>
 
-<p></p>
-<p></p>
 
-## 30 seconds of incompatible dialectical montage
+<br></br>
+
+## 30 seconds of incompatible dialectical montage (2017)
 
 <iframe src="https://player.vimeo.com/video/249353807" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-<p></p>
-<p></p>
 
-## A Year Since Then
+<br></br>
+
+## A Year Since Then (2017)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U3cftC8ob-8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
