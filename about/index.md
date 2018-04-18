@@ -10,26 +10,25 @@ comments: false
 
 
 ### About  
-Born in 1992 Taiwan on Shakespeare Day. 
-Hated by most teachers in her childhood. Socially awkward (extreme).
-
+Born in 1992 Taiwan on Shakespeare Day. <p>
+Hated by most teachers in her childhood. **Socially awkward (extreme).**
+<p></P>
 Was very lost in life. 
 Still very lost in life.
-
+<p></p>
 Know a little bit of many things, but not an expert on anything.
 Forever traumatized since 2016.
 
 ### Education 
-* 2017-2018  
-    School of the Art Institute of Chicago, Post-Bacc
-* 2017       
-    ArtCenter College of Design, Summer Courses
-* 2013-2015  
-    University of California, Berkeley, BAs in Pol Sci & Development Std
-* 2012-2013  
-    Santa Monica College 
-* 2011       
-    University of Nevada, Las Vegas 
+* 2017-2018  School of the Art Institute of Chicago 
+    Post-Bacc in Painting & Drawing
+* 2017       ArtCenter College of Design
+    BFA Summer Courses
+* 2013-2015  University of California, Berkeley
+    BAs in Political Science & Development Studies
+* 2012-2013  Santa Monica College 
+    Drawing Courses 
+* 2011       University of Nevada, Las Vegas 
 
 
 {% capture images %}
