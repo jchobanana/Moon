@@ -13,11 +13,15 @@ comments: false
 
 <iframe src="https://player.vimeo.com/video/248417875" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe>
 
+<p></p>
+<p></p>
 
-## 30 seconds of Incompatible Dialectical Montage
+## 30 seconds of incompatible dialectical montage
 
 <iframe src="https://player.vimeo.com/video/249353807" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
+<p></p>
+<p></p>
 
 ## A Year Since Then
 
