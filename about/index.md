@@ -35,6 +35,6 @@ Forever traumatized since 2016.
 https://drive.google.com/uc?id=1-5kPg7xyXR4H5OsY4fyeqZakatcYO90L
 https://drive.google.com/uc?id=1T176JrqUt0-LHs4s8TvLLYnWZ7-4Jdtu
 {% endcapture %}
-{% include gallery images=images caption="*2017*" cols=2 %}
+{% include gallery images=images caption="*2017" cols=2 %}
 
 
