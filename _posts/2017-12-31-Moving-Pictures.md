@@ -8,21 +8,21 @@ tag:
 - 2017
 comments: false
 ---
-<br></br>
+<br>
 
 ## 60 seconds of me (2017)
 
 <iframe src="https://player.vimeo.com/video/248417875" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe>
 
 
-<br></br>
+<br>
 
 ## 30 seconds of incompatible dialectical montage (2017)
 
 <iframe src="https://player.vimeo.com/video/249353807" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
-<br></br>
+<br>
 
 ## A Year Since Then (2017)
 
