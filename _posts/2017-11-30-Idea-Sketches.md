@@ -12,21 +12,21 @@ comments: false
 
 
 <figure>
-	<a href="https://drive.google.com/uc?id=13CmRUj0AP9W5XbRP5WxTjBQIQdNcatty"><img src="https://drive.google.com/uc?id=13CmRUj0AP9W5XbRP5WxTjBQIQdNcatty"></a>
+	<a href="https://drive.google.com/uc?id=13CmRUj0AP9W5XbRP5WxTjBQIQdNcatty" class="image-popup"><img src="https://drive.google.com/uc?id=13CmRUj0AP9W5XbRP5WxTjBQIQdNcatty"></a>
 	<figcaption> ink and pastel on paper </figcaption>
 </figure>
 
 <br>
 
 <figure>
-	<a href="https://drive.google.com/uc?id=1EzdhZBnHJyeVURbHo3eRcKYZJ2nudy-y"><img src="https://drive.google.com/uc?id=1EzdhZBnHJyeVURbHo3eRcKYZJ2nudy-y"></a>
+	<a href="https://drive.google.com/uc?id=1EzdhZBnHJyeVURbHo3eRcKYZJ2nudy-y" class="image-popup"><img src="https://drive.google.com/uc?id=1EzdhZBnHJyeVURbHo3eRcKYZJ2nudy-y"></a>
 	<figcaption> acrylics on papers, n(9"x12") </figcaption>
 </figure>
 
 <br>
 
 <figure>
-	<a href="https://drive.google.com/uc?id=1GAvnVbwTMAw2K-gG3j9L82caiSmBxrVL"><img src="https://drive.google.com/uc?id=1GAvnVbwTMAw2K-gG3j9L82caiSmBxrVL"></a>
+	<a href="https://drive.google.com/uc?id=1GAvnVbwTMAw2K-gG3j9L82caiSmBxrVL" class="image-popup"><img src="https://drive.google.com/uc?id=1GAvnVbwTMAw2K-gG3j9L82caiSmBxrVL"></a>
 	<figcaption> acrylics on paper </figcaption>
 </figure>
 
