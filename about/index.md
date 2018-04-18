@@ -18,17 +18,20 @@ Still very lost in life.
 <p></p>
 Know a little bit of many things, but not an expert on anything. <br>
 Forever traumatized since 2016.
+<p></p>
+I will come up with a more serious bio when I have a better idea of what I am doing. 
+
 
 ## Education 
 * 2018  School of the Art Institute of Chicago <br>
-    Post-Bacc in Painting & Drawing
+    Post-Baccalaureate in Painting & Drawing
     <p></p>
-* 2017       ArtCenter College of Design <br>
-    Only Survived One BFA Term
+* 2017  ArtCenter College of Design <br>
+    BFA Summer Courses 
     <p></p>
 * 2015  University of California, Berkeley <br>
-    BAs in Political Science & Development Studies
-<p></p>
+    B.A. in Development Studies (double-major in Political Science) 
+    <p></p>
 
 
 <figure class="half">
