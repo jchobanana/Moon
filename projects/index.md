@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Works...?
-excerpt: "A List of Projects"
+title: Work
+excerpt: "Different Types of Work"
 comments: false
 ---
