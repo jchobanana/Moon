@@ -10,6 +10,7 @@ comments: false
 
 
 ### About  
+:--------
 Born in 1992 Taiwan on Shakespeare Day. <br>
 Hated by most teachers in her childhood. **Socially awkward (very).**
 <p></p>
@@ -20,6 +21,7 @@ Know a little bit of many things, but not an expert on anything. <br>
 Forever traumatized since 2016.
 
 ### Education 
+:--------
 * 2017-2018  School of the Art Institute of Chicago <br>
     Post-Bacc in Painting & Drawing
     <p></p>
