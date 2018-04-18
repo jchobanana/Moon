@@ -35,8 +35,8 @@ Forever traumatized since 2016.
   <a href="https://drive.google.com/uc?id=1-5kPg7xyXR4H5OsY4fyeqZakatcYO90L" class="image-popup">
     <img src="https://drive.google.com/uc?id=1-5kPg7xyXR4H5OsY4fyeqZakatcYO90L" alt="">
   </a>
-  <a href="https://drive.google.com/uc?id=1T176JrqUt0-LHs4s8TvLLYnWZ7-4Jdtu" class="image-popup">
-    <img src="https://drive.google.com/uc?id=1T176JrqUt0-LHs4s8TvLLYnWZ7-4Jdtu" alt="">
+  <a href="https://drive.google.com/uc?id=1aIxrh_2SYjI5YdwW1wmRed2RhbPupt9A" class="image-popup">
+    <img src="https://drive.google.com/uc?id=1aIxrh_2SYjI5YdwW1wmRed2RhbPupt9A" alt="">
   </a>
-  <figcaption> *2017</figcaption>
+  <figcaption> My Divine Guardians of Doors & Me </figcaption>
 </figure>
