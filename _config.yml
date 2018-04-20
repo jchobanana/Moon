@@ -5,7 +5,7 @@ description:        "Taiwan/US-based homeless"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/6a95d73cb68d42eca9ad9c2a4c8e06ba.jpg'
-background:         'assets/img/2018-04-18.jpg'
+background:         'assets/img/working.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://jchobanana.github.io
@@ -38,10 +38,10 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email:              tcho@saic.edu
 instagram:          jjjcho
 twitter:            j_chobanana
-facebook:           jjjcho
+#facebook:           jjjcho
 #github-url:        username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
