@@ -6,7 +6,7 @@ date: 2018-04-17
 comments: false
 ---
     
-<center><a href="https://www.instagram.com/jjjcho/"><b>Jaye</b></a> is an artist wannabe who accidentally got into some prestige MFA programs in 2018.</center>
+<center><a href="https://www.instagram.com/jjjcho/"><b>Jaye</b></a> is an artist wannabe who accidentally got into some prestigious MFA programs in 2018.</center>
 
 
 ## About  
