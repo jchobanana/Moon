@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Sketches (?)"
-excerpt: "Small drawings sometiimes make it into bigger projects, but most of the time just go to trash. These are the survivors from trash can."
+title:  "＠＃＄％＾＆＊！？"
+excerpt: "small & random stuff that I happened to have a photo of"
 project: true
 tag:
 - drawing
@@ -12,21 +12,21 @@ comments: false
 
 
 <figure>
-	<a href="https://drive.google.com/uc?id=13CmRUj0AP9W5XbRP5WxTjBQIQdNcatty" class="image-popup"><img src="https://drive.google.com/uc?id=13CmRUj0AP9W5XbRP5WxTjBQIQdNcatty"></a>
+	<a href="https://drive.google.com/uc?id=1nWb-nNBCDSW89NFJeeeoxQfgtzC3ZevY" class="image-popup"><img src="https://drive.google.com/uc?id=1nWb-nNBCDSW89NFJeeeoxQfgtzC3ZevY"></a>
 	<figcaption> ink and pastel on paper </figcaption>
 </figure>
 
 <br>
 
 <figure>
-	<a href="https://drive.google.com/uc?id=1EzdhZBnHJyeVURbHo3eRcKYZJ2nudy-y" class="image-popup"><img src="https://drive.google.com/uc?id=1EzdhZBnHJyeVURbHo3eRcKYZJ2nudy-y"></a>
+	<a href="https://drive.google.com/uc?id=1rmAgYNdzX2_qUNbE_T6CgiwODxowfkVr" class="image-popup"><img src="https://drive.google.com/uc?id=1rmAgYNdzX2_qUNbE_T6CgiwODxowfkVr"></a>
 	<figcaption> acrylics on papers, n(9"x12") </figcaption>
 </figure>
 
 <br>
 
 <figure>
-	<a href="https://drive.google.com/uc?id=1GAvnVbwTMAw2K-gG3j9L82caiSmBxrVL" class="image-popup"><img src="https://drive.google.com/uc?id=1GAvnVbwTMAw2K-gG3j9L82caiSmBxrVL"></a>
+	<a href="https://drive.google.com/uc?id=1myslhg9NA9HPmq1lr2wFykafjHIh6an7" class="image-popup"><img src="https://drive.google.com/uc?id=1myslhg9NA9HPmq1lr2wFykafjHIh6an7"></a>
 	<figcaption> acrylics on paper </figcaption>
 </figure>
 
