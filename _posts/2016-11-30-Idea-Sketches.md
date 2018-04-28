@@ -11,18 +11,16 @@ comments: false
 ---
 <br>
 
-
-
 <figure>
-	<a href="https://drive.google.com/uc?id=1Nh_DCnu0sfgxWdZLtd1gHy0urHxOG4k9" class="image-popup"><img src="https://drive.google.com/uc?id=1Nh_DCnu0sfgxWdZLtd1gHy0urHxOG4k9"></a>
-	<figcaption> stickers on wall </figcaption>
+	<a href="https://drive.google.com/uc?id=1raPImSc2geyXsZ2_Qe14nmsd7AAYUOfR" class="image-popup"><img src="https://drive.google.com/uc?id=1raPImSc2geyXsZ2_Qe14nmsd7AAYUOfR"></a>
+	<figcaption> acrylics on wall </figcaption>
 </figure>
 
 <br>
 
 <figure>
-	<a href="https://drive.google.com/uc?id=1raPImSc2geyXsZ2_Qe14nmsd7AAYUOfR" class="image-popup"><img src="https://drive.google.com/uc?id=1raPImSc2geyXsZ2_Qe14nmsd7AAYUOfR"></a>
-	<figcaption> acrylics on wall </figcaption>
+	<a href="https://drive.google.com/uc?id=1Nh_DCnu0sfgxWdZLtd1gHy0urHxOG4k9" class="image-popup"><img src="https://drive.google.com/uc?id=1Nh_DCnu0sfgxWdZLtd1gHy0urHxOG4k9"></a>
+	<figcaption> stickers on wall </figcaption>
 </figure>
 
 <br>
@@ -42,13 +40,6 @@ comments: false
 <br>
 
 <figure>
-	<a href="https://drive.google.com/uc?id=0B_c7340CNfFDTE1mQm5WSW9WT1k" class="image-popup"><img src="https://drive.google.com/uc?id=0B_c7340CNfFDTE1mQm5WSW9WT1k"></a>
-	<figcaption> pastels on paper </figcaption>
-</figure>
-
-<br>
-
-<figure>
 	<a href="https://drive.google.com/uc?id=1myslhg9NA9HPmq1lr2wFykafjHIh6an7" class="image-popup"><img src="https://drive.google.com/uc?id=1myslhg9NA9HPmq1lr2wFykafjHIh6an7"></a>
 	<figcaption> acrylics on paper </figcaption>
 </figure>
@@ -59,6 +50,14 @@ comments: false
 	<a href="https://drive.google.com/uc?id=0B_c7340CNfFDSFJEdmw1X2pwOGM" class="image-popup"><img src="https://drive.google.com/uc?id=0B_c7340CNfFDSFJEdmw1X2pwOGM"></a>
 	<figcaption> charcoal on paper </figcaption>
 </figure>
+
+<br>
+
+<figure>
+	<a href="https://drive.google.com/uc?id=0B_c7340CNfFDTE1mQm5WSW9WT1k" class="image-popup"><img src="https://drive.google.com/uc?id=0B_c7340CNfFDTE1mQm5WSW9WT1k"></a>
+	<figcaption> pastels on paper </figcaption>
+</figure>
+
 
 <br>
 
@@ -77,13 +76,25 @@ comments: false
 <br>
 
 <figure>
-	<a href="https://drive.google.com/uc?id=1dhCqysnvNxW3h7EKUNpq0hzclXwxJDVl" class="image-popup"><img src="https://drive.google.com/uc?id=1dhCqysnvNxW3h7EKUNpq0hzclXwxJDVl"></a>
-	<figcaption> Big Yellow (life size beanbag) </figcaption>
+	<a href="https://drive.google.com/uc?id=0B_c7340CNfFDSDExTWdvSWxZX28" class="image-popup"><img src="https://drive.google.com/uc?id=0B_c7340CNfFDSDExTWdvSWxZX28"></a>
+	<figcaption> oil on canvas </figcaption>
 </figure>
+<br>
 
+<figure>
+	<a href="https://drive.google.com/uc?id=0B_c7340CNfFDenV1VmwxenFrelk" class="image-popup"><img src="https://drive.google.com/uc?id=0B_c7340CNfFDenV1VmwxenFrelk"></a>
+	<figcaption> oil on canvas </figcaption>
+</figure>
 <br>
 
 <figure>
 	<a href="https://drive.google.com/uc?id=0B_c7340CNfFDMGJlQmpqR3oyUE0" class="image-popup"><img src="https://drive.google.com/uc?id=0B_c7340CNfFDMGJlQmpqR3oyUE0"></a>
 	<figcaption> watercolor on paper </figcaption>
+</figure>
+
+<br>
+
+<figure>
+	<a href="https://drive.google.com/uc?id=1dhCqysnvNxW3h7EKUNpq0hzclXwxJDVl" class="image-popup"><img src="https://drive.google.com/uc?id=1dhCqysnvNxW3h7EKUNpq0hzclXwxJDVl"></a>
+	<figcaption> Big Yellow (life size beanbag) </figcaption>
 </figure>
