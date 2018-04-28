@@ -20,7 +20,7 @@ comments: false
 
 <figure>
 	<a href="https://drive.google.com/uc?id=1raPImSc2geyXsZ2_Qe14nmsd7AAYUOfR" class="image-popup"><img src="https://drive.google.com/uc?id=1raPImSc2geyXsZ2_Qe14nmsd7AAYUOfR"></a>
-	<figcaption> No Skill at First Place, acrylic on wall </figcaption>
+	<figcaption> Skill Skill Skill, acrylic on wall </figcaption>
 </figure>
 
 <br>
@@ -60,7 +60,7 @@ comments: false
 
 <br>
 
-## Old (residues before 2015)
+## Old (pre-2015)
 
 <br>
 
