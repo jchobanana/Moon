@@ -11,9 +11,20 @@ comments: false
 ---
 <br>
 
+**Random
+
+<br>
+
 <figure>
 	<a href="https://drive.google.com/uc?id=1raPImSc2geyXsZ2_Qe14nmsd7AAYUOfR" class="image-popup"><img src="https://drive.google.com/uc?id=1raPImSc2geyXsZ2_Qe14nmsd7AAYUOfR"></a>
 	<figcaption> acrylics on wall </figcaption>
+</figure>
+
+<br>
+
+<figure>
+	<a href="https://drive.google.com/uc?id=1bROlSshoA7jad_4YhLjeK4MW5n0JLZeA" class="image-popup"><img src="https://drive.google.com/uc?id=1bROlSshoA7jad_4YhLjeK4MW5n0JLZeA"></a>
+	<figcaption> Manifesto on Going Bald </figcaption>
 </figure>
 
 <br>
@@ -46,10 +57,7 @@ comments: false
 
 <br>
 
-<figure>
-	<a href="https://drive.google.com/uc?id=0B_c7340CNfFDSFJEdmw1X2pwOGM" class="image-popup"><img src="https://drive.google.com/uc?id=0B_c7340CNfFDSFJEdmw1X2pwOGM"></a>
-	<figcaption> charcoal on paper </figcaption>
-</figure>
+**Old (residues before 2015)
 
 <br>
 
@@ -57,6 +65,14 @@ comments: false
 	<a href="https://drive.google.com/uc?id=0B_c7340CNfFDTE1mQm5WSW9WT1k" class="image-popup"><img src="https://drive.google.com/uc?id=0B_c7340CNfFDTE1mQm5WSW9WT1k"></a>
 	<figcaption> pastels on paper </figcaption>
 </figure>
+
+<br>
+
+<figure>
+	<a href="https://drive.google.com/uc?id=0B_c7340CNfFDSFJEdmw1X2pwOGM" class="image-popup"><img src="https://drive.google.com/uc?id=0B_c7340CNfFDSFJEdmw1X2pwOGM"></a>
+	<figcaption> charcoal on paper </figcaption>
+</figure>
+
 
 
 <br>
