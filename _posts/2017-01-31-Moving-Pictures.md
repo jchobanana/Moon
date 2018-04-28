@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Moving Pictures"
+title:  " (something) digital"
 excerpt: "I promoise most of my videos are very short. However, if you like watching longer videos, I got some of those for you, too."
 project: true
 tag:
