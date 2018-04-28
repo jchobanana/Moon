@@ -10,11 +10,11 @@ tag:
 comments: false
 ---
 
-### either something random or something old that I happened to have a photo of
+<center> either something random or something old </center>
 <br>
 <br>
 
-## Random
+## Random (post-2016)
 
 <br>
 
