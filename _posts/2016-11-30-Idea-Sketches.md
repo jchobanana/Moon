@@ -20,7 +20,7 @@ comments: false
 
 <figure>
 	<a href="https://drive.google.com/uc?id=1raPImSc2geyXsZ2_Qe14nmsd7AAYUOfR" class="image-popup"><img src="https://drive.google.com/uc?id=1raPImSc2geyXsZ2_Qe14nmsd7AAYUOfR"></a>
-	<figcaption> acrylics on wall </figcaption>
+	<figcaption> No Skill at First Place </figcaption>
 </figure>
 
 <br>
@@ -34,7 +34,7 @@ comments: false
 
 <figure>
 	<a href="https://drive.google.com/uc?id=1Nh_DCnu0sfgxWdZLtd1gHy0urHxOG4k9" class="image-popup"><img src="https://drive.google.com/uc?id=1Nh_DCnu0sfgxWdZLtd1gHy0urHxOG4k9"></a>
-	<figcaption> stickers on wall </figcaption>
+	<figcaption> Collectible Stickers </figcaption>
 </figure>
 
 <br>
@@ -55,7 +55,7 @@ comments: false
 
 <figure>
 	<a href="https://drive.google.com/uc?id=1myslhg9NA9HPmq1lr2wFykafjHIh6an7" class="image-popup"><img src="https://drive.google.com/uc?id=1myslhg9NA9HPmq1lr2wFykafjHIh6an7"></a>
-	<figcaption> acrylics on paper </figcaption>
+	<figcaption> One of Many Attempts, acrylics on paper </figcaption>
 </figure>
 
 <br>
@@ -65,31 +65,43 @@ comments: false
 <br>
 
 <figure>
+	<a href="https://drive.google.com/uc?id=1BZsepuvjoyfc67979kiTko8EI19jE8-0" class="image-popup"><img src="https://drive.google.com/uc?id=1BZsepuvjoyfc67979kiTko8EI19jE8-0"></a>
+	<figcaption> A Competition with Jody </figcaption>
+</figure>
+
+<br>
+
+<figure>
 	<a href="https://drive.google.com/uc?id=0B_c7340CNfFDTE1mQm5WSW9WT1k" class="image-popup"><img src="https://drive.google.com/uc?id=0B_c7340CNfFDTE1mQm5WSW9WT1k"></a>
-	<figcaption> pastels on paper </figcaption>
+	<figcaption> Monument, pastels on paper </figcaption>
+</figure>
+
+<br>
+
+<figure>
+	<a href="https://drive.google.com/uc?id=18AEgDmTRWSGtgNT2LlTAKCgtMKvKVPuy" class="image-popup"><img src="https://drive.google.com/uc?id=18AEgDmTRWSGtgNT2LlTAKCgtMKvKVPuy"></a>
+	<figcaption> Me, pastels on paper </figcaption>
 </figure>
 
 <br>
 
 <figure>
 	<a href="https://drive.google.com/uc?id=0B_c7340CNfFDSFJEdmw1X2pwOGM" class="image-popup"><img src="https://drive.google.com/uc?id=0B_c7340CNfFDSFJEdmw1X2pwOGM"></a>
-	<figcaption> charcoal on paper </figcaption>
+	<figcaption> Milk, charcoal on paper </figcaption>
 </figure>
-
-
 
 <br>
 
 <figure>
 	<a href="https://drive.google.com/uc?id=0B_c7340CNfFDWURhTjFXVmJPZWs" class="image-popup"><img src="https://drive.google.com/uc?id=0B_c7340CNfFDWURhTjFXVmJPZWs"></a>
-	<figcaption> pastels on paper </figcaption>
+	<figcaption> BFF, pastels on papers </figcaption>
 </figure>
 
 <br>
 
 <figure>
 	<a href="https://drive.google.com/uc?id=0B_c7340CNfFDSzJScmswenMySUU" class="image-popup"><img src="https://drive.google.com/uc?id=0B_c7340CNfFDSzJScmswenMySUU"></a>
-	<figcaption> charcoal on paper </figcaption>
+	<figcaption> She & I, charcoal on papers </figcaption>
 </figure>
 
 <br>
