@@ -9,9 +9,12 @@ tag:
 - 2017
 comments: false
 ---
+
+### either something random or something old that I happened to have a photo of
+<br>
 <br>
 
-**Random
+## Random
 
 <br>
 
@@ -57,7 +60,7 @@ comments: false
 
 <br>
 
-**Old (residues before 2015)
+## Old (residues before 2015)
 
 <br>
 
