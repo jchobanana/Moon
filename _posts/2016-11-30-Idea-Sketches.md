@@ -20,7 +20,7 @@ comments: false
 
 <figure>
 	<a href="https://drive.google.com/uc?id=1raPImSc2geyXsZ2_Qe14nmsd7AAYUOfR" class="image-popup"><img src="https://drive.google.com/uc?id=1raPImSc2geyXsZ2_Qe14nmsd7AAYUOfR"></a>
-	<figcaption> No Skill at First Place </figcaption>
+	<figcaption> No Skill at First Place, acrylic on wall </figcaption>
 </figure>
 
 <br>
@@ -48,14 +48,14 @@ comments: false
 
 <figure>
 	<a href="https://drive.google.com/uc?id=1rmAgYNdzX2_qUNbE_T6CgiwODxowfkVr" class="image-popup"><img src="https://drive.google.com/uc?id=1rmAgYNdzX2_qUNbE_T6CgiwODxowfkVr"></a>
-	<figcaption> acrylics on papers, n(9"x12") </figcaption>
+	<figcaption> acrylic on papers, n(9"x12") </figcaption>
 </figure>
 
 <br>
 
 <figure>
 	<a href="https://drive.google.com/uc?id=1myslhg9NA9HPmq1lr2wFykafjHIh6an7" class="image-popup"><img src="https://drive.google.com/uc?id=1myslhg9NA9HPmq1lr2wFykafjHIh6an7"></a>
-	<figcaption> One of Many Attempts, acrylics on paper </figcaption>
+	<figcaption> One of Many Attempts, acrylic on paper </figcaption>
 </figure>
 
 <br>
@@ -66,21 +66,21 @@ comments: false
 
 <figure>
 	<a href="https://drive.google.com/uc?id=1BZsepuvjoyfc67979kiTko8EI19jE8-0" class="image-popup"><img src="https://drive.google.com/uc?id=1BZsepuvjoyfc67979kiTko8EI19jE8-0"></a>
-	<figcaption> A Competition with Jody </figcaption>
+	<figcaption> A Competition with Jody, 2013, Pringles </figcaption>
 </figure>
 
 <br>
 
 <figure>
 	<a href="https://drive.google.com/uc?id=0B_c7340CNfFDTE1mQm5WSW9WT1k" class="image-popup"><img src="https://drive.google.com/uc?id=0B_c7340CNfFDTE1mQm5WSW9WT1k"></a>
-	<figcaption> Monument, pastels on paper </figcaption>
+	<figcaption> Monument, pastel on paper </figcaption>
 </figure>
 
 <br>
 
 <figure>
 	<a href="https://drive.google.com/uc?id=18AEgDmTRWSGtgNT2LlTAKCgtMKvKVPuy" class="image-popup"><img src="https://drive.google.com/uc?id=18AEgDmTRWSGtgNT2LlTAKCgtMKvKVPuy"></a>
-	<figcaption> Me, pastels on paper </figcaption>
+	<figcaption> Me, 2013, pastel on paper </figcaption>
 </figure>
 
 <br>
@@ -94,7 +94,7 @@ comments: false
 
 <figure>
 	<a href="https://drive.google.com/uc?id=0B_c7340CNfFDWURhTjFXVmJPZWs" class="image-popup"><img src="https://drive.google.com/uc?id=0B_c7340CNfFDWURhTjFXVmJPZWs"></a>
-	<figcaption> BFF, pastels on papers </figcaption>
+	<figcaption> BFF, pastel on papers </figcaption>
 </figure>
 
 <br>
@@ -127,5 +127,5 @@ comments: false
 
 <figure>
 	<a href="https://drive.google.com/uc?id=1dhCqysnvNxW3h7EKUNpq0hzclXwxJDVl" class="image-popup"><img src="https://drive.google.com/uc?id=1dhCqysnvNxW3h7EKUNpq0hzclXwxJDVl"></a>
-	<figcaption> Big Yellow (life size beanbag) </figcaption>
+	<figcaption> Big Yellow (life size beanbag), 2010, grandma helped </figcaption>
 </figure>
