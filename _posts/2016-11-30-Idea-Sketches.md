@@ -19,13 +19,6 @@ comments: false
 <br>
 
 <figure>
-	<a href="https://drive.google.com/uc?id=1raPImSc2geyXsZ2_Qe14nmsd7AAYUOfR" class="image-popup"><img src="https://drive.google.com/uc?id=1raPImSc2geyXsZ2_Qe14nmsd7AAYUOfR"></a>
-	<figcaption> Skill Skill Skill, acrylic on wall </figcaption>
-</figure>
-
-<br>
-
-<figure>
 	<a href="https://drive.google.com/uc?id=1bROlSshoA7jad_4YhLjeK4MW5n0JLZeA" class="image-popup"><img src="https://drive.google.com/uc?id=1bROlSshoA7jad_4YhLjeK4MW5n0JLZeA"></a>
 	<figcaption> Manifesto on Going Bald </figcaption>
 </figure>
@@ -38,6 +31,13 @@ comments: false
 </figure>
 
 <br>
+
+<figure>
+	<a href="https://drive.google.com/uc?id=1raPImSc2geyXsZ2_Qe14nmsd7AAYUOfR" class="image-popup"><img src="https://drive.google.com/uc?id=1raPImSc2geyXsZ2_Qe14nmsd7AAYUOfR"></a>
+	<figcaption> Skill!!, acrylic on column </figcaption>
+</figure>
+ 
+ <br>
 
 <figure>
 	<a href="https://drive.google.com/uc?id=1nWb-nNBCDSW89NFJeeeoxQfgtzC3ZevY" class="image-popup"><img src="https://drive.google.com/uc?id=1nWb-nNBCDSW89NFJeeeoxQfgtzC3ZevY"></a>
@@ -55,7 +55,7 @@ comments: false
 
 <figure>
 	<a href="https://drive.google.com/uc?id=1myslhg9NA9HPmq1lr2wFykafjHIh6an7" class="image-popup"><img src="https://drive.google.com/uc?id=1myslhg9NA9HPmq1lr2wFykafjHIh6an7"></a>
-	<figcaption> One of Many Attempts, acrylic on paper </figcaption>
+	<figcaption> one of many attempts, acrylic on paper </figcaption>
 </figure>
 
 <br>
