@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "7 Months in the Art School"
-date:   2018-03-15
+date:   2016-03-15
 excerpt: "my experience in the SAIC Post-Bacc program from 2017-2018"
 tag:
 - starting
@@ -38,7 +38,10 @@ I must confessed I had a very lame and stupid fantasy about SAIC back then, simp
 
 Prehaps I am the type of student who benefit the most from a post-bacc program (clueless but passionate).  7 months into the program, I feel like I am literary living and starting a second life. My horizon is so much widen now (in terms of fine art knowledge).  I came into the program thinking I would continue to make the kind of paintings that I did in 2014, just with better skill.  But I ended up doing compeltely different work that I never thought would come out from me.  Well, not all changes are awesome of course. I actually feel very lost about my future as I am finishing the program now, but in a good and painful way.  The more one learns, the less one knows. This is exactly how I feel know.  
 
-Through the program, I was mentored by many renown working artists, I took undergraduate classes that gave me a sense of what it's like to be a undergrad student in an art school, I attended many artist lectures and profesisonal workshops, I also took graduate MFA-level art history classes and seminars to have a full understanding of what it will be like if I decide to have a MFA degree in future.  Everything that did not make sense to me now all make sense, but everything that made sense to me now all don't make any sense.  But I feel like it is what a good education does to you. Maybe?  Maybe to the school(s), post-bacc program is really just money making (but what is not anyway?) But from the director who runs the post-bacc program at SAIC, I know she is full of passion and trully believes in the students.  
+Through the program, I was mentored by many renown working artists, I took undergraduate classes that gave me a sense of what it's like to be a undergrad student in an art school, I attended many artist lectures and profesisonal workshops, I also took graduate MFA-level art history classes and seminars to have a full understanding of what it will be like if I decide to have a MFA degree in future.  Everything that did not make sense to me now all make sense, but everything that made sense to me now all don't make any sense.  But I feel like it is what a good education does to you. Maybe?  Maybe to the school(s), post-bacc program is really just money making (but what is not anyway?) But from the director who runs the post-bacc program at SAIC, I know she is full of passion and trully believes in the students. 
+
+<br>
+
 When people ask me about the post-bacc program, they always ask about the outcome. And I know they don't really care about the vague but sincere answer of "how much I grow as a person and an artist wannabe," they want to know if doing a post-bacc program means you are guaranteed acceptance to the MFA program. I know some art schools and differnet majors do that, but this is for sure not the case for the Painting & Drawing program in SAIC.  But is it really important? To me, a year after the program, I have gain so much more than I have expected, I honestly feel like it is a better program than just doing a MFA (we also shared pretty much all the same resources with the MFA students).  
 
 <br>
