@@ -11,8 +11,13 @@ tag:
 comments: false
 ---
 
+<center> This murmur is written in broken EngRish, grammaticasters please leave. </center>
+<center> I dont check my grammar or typo when I am free writing like this. </center>
+<br>
+
 <iframe src="https://player.vimeo.com/video/267367435" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
+<br>
 
 Well, just want to share my failure. Whenever I'm editing a video, there are things I clearly know I shouldn't do, but I just can't resist to not do it. The whole project thought of lost its meaning because of the way I edit the clips to the bgm.  Anyway, hope I do better in the next cut. 
 
