@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  " (something) digital"
+title:  " (something) technological"
 excerpt: "I promoise most of my videos are very short. However, if you like watching longer videos, I got some of those for you, too."
 project: true
 tag:
 - video
 - 2017
+- 2018
+- art&tech
 comments: false
 ---
 <br>
