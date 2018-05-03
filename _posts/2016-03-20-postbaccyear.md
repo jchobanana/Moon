@@ -9,7 +9,7 @@ tag:
 - 2017
 - 2018
 - murmur
-comments: true 
+comments: false 
 ---
 
 <center> This murmur is written in broken EngRish, grammaticasters please leave. </center>
