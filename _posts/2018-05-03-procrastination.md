@@ -6,6 +6,8 @@ excerpt: "why am I doing this to myself..."
 tags: [2018, murmur]
 comments: false
 ---
+<center> 2018/05/03 </center>
+<br>
 
 <center> This murmur is written in broken EngRish, grammaticasters please leave. </center>
 <center> I dont check my grammar or typo when I am free writing like this. </center>
