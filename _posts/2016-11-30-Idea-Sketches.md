@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "＠＃＄％＾＆＊！？"
-excerpt: "either something random or something old that I happened to have a photo of"
+excerpt: "something random that I happened to have a photo of"
 project: true
 tag:
 - drawing
@@ -14,7 +14,7 @@ comments: false
 <br>
 <br>
 
-## Random (post-2016)
+## Random
 
 <br>
 
@@ -60,9 +60,6 @@ comments: false
 
 <br>
 
-## Old (pre-2015)
-
-<br>
 
 <figure>
 	<a href="https://drive.google.com/uc?id=1BZsepuvjoyfc67979kiTko8EI19jE8-0" class="image-popup"><img src="https://drive.google.com/uc?id=1BZsepuvjoyfc67979kiTko8EI19jE8-0"></a>
@@ -71,59 +68,6 @@ comments: false
 
 <br>
 
-<figure>
-	<a href="https://drive.google.com/uc?id=0B_c7340CNfFDTE1mQm5WSW9WT1k" class="image-popup"><img src="https://drive.google.com/uc?id=0B_c7340CNfFDTE1mQm5WSW9WT1k"></a>
-	<figcaption> Monument, pastel on paper </figcaption>
-</figure>
-
-<br>
-
-<figure>
-	<a href="https://drive.google.com/uc?id=18AEgDmTRWSGtgNT2LlTAKCgtMKvKVPuy" class="image-popup"><img src="https://drive.google.com/uc?id=18AEgDmTRWSGtgNT2LlTAKCgtMKvKVPuy"></a>
-	<figcaption> Me, 2013, pastel on paper </figcaption>
-</figure>
-
-<br>
-
-<figure>
-	<a href="https://drive.google.com/uc?id=0B_c7340CNfFDSFJEdmw1X2pwOGM" class="image-popup"><img src="https://drive.google.com/uc?id=0B_c7340CNfFDSFJEdmw1X2pwOGM"></a>
-	<figcaption> Milk, charcoal on paper </figcaption>
-</figure>
-
-<br>
-
-<figure>
-	<a href="https://drive.google.com/uc?id=0B_c7340CNfFDWURhTjFXVmJPZWs" class="image-popup"><img src="https://drive.google.com/uc?id=0B_c7340CNfFDWURhTjFXVmJPZWs"></a>
-	<figcaption> BFF, pastel on papers </figcaption>
-</figure>
-
-<br>
-
-<figure>
-	<a href="https://drive.google.com/uc?id=0B_c7340CNfFDSzJScmswenMySUU" class="image-popup"><img src="https://drive.google.com/uc?id=0B_c7340CNfFDSzJScmswenMySUU"></a>
-	<figcaption> She & I, charcoal on papers </figcaption>
-</figure>
-
-<br>
-
-<figure>
-	<a href="https://drive.google.com/uc?id=0B_c7340CNfFDSDExTWdvSWxZX28" class="image-popup"><img src="https://drive.google.com/uc?id=0B_c7340CNfFDSDExTWdvSWxZX28"></a>
-	<figcaption> oil on canvas </figcaption>
-</figure>
-<br>
-
-<figure>
-	<a href="https://drive.google.com/uc?id=0B_c7340CNfFDenV1VmwxenFrelk" class="image-popup"><img src="https://drive.google.com/uc?id=0B_c7340CNfFDenV1VmwxenFrelk"></a>
-	<figcaption> oil on canvas </figcaption>
-</figure>
-<br>
-
-<figure>
-	<a href="https://drive.google.com/uc?id=0B_c7340CNfFDMGJlQmpqR3oyUE0" class="image-popup"><img src="https://drive.google.com/uc?id=0B_c7340CNfFDMGJlQmpqR3oyUE0"></a>
-	<figcaption> watercolor on paper </figcaption>
-</figure>
-
-<br>
 
 <figure>
 	<a href="https://drive.google.com/uc?id=1dhCqysnvNxW3h7EKUNpq0hzclXwxJDVl" class="image-popup"><img src="https://drive.google.com/uc?id=1dhCqysnvNxW3h7EKUNpq0hzclXwxJDVl"></a>
