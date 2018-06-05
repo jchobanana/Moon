@@ -17,7 +17,7 @@ comments: false
 
 <br>
 
-Honestly, at first I thought it's just a joke.  But then, I look at all the other people's works that are selected to be in thes show, I was so impressed.  Damnit, so many real artists in this show.  I'm honored.  May video made it to Russia before me. 
+Honestly, at first I thought it's just a joke.  But then, I look at all the other people's works that are selected to be in thes show, I was so impressed.  Damnit, so many real artists in this show.  I'm honored.  My video made it to Russia before me. 
 
 <br>
 The video I am showing in the festival is not going to be on this website, so the only way for you to find out what it is about is to visit the A3 Gallery in Moscow, Russia, from the end of May 24, 2018 to June 2, 2018 lol.
