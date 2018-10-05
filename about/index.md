@@ -6,7 +6,8 @@ date: 2018-04-17
 comments: false
 ---
     
-<center><a href="https://www.instagram.com/jjjcho/"><b>Jaye</b></a> is an artist wannabe who accidentally got into some prestigious MFA programs in 2018.</center>
+<center><a href="https://www.instagram.com/jjjcho/"><b>Jaye</b></a> is an artist wannabe who accidentally got into some prestigious MFA programs in 2018.  </center>
+<center>However, she decided to enroll in a 1-year business school program in Japan instead just to make herself a (serious) joke. </center>
 
 
 ## About  
@@ -33,7 +34,16 @@ I will come up with a more serious bio when I have a better idea of what I am do
     B.A. in Development Studies (double-major in Political Science) 
     <p></p>
 
-
+## Exhibitions
+* 2018  Bad Video Art Festival, Curated by Natalia Monakhova & Andrey Slaschilin, A3 Gallery, Moscow, Russia
+    <p></p>
+* 2018  The Annual, Curated by Giannella Ysasi Tavano & Neil O'Malley, SAIC MacLean Center, Chicago, IL
+    <p></p>
+* 2016  Inside Enclosures, 11F Bookstore, Taoyuan, Taiwan
+    <p></p>
+* 2015  A180 Showcase, Kroeber Hall, Berkeley, CA    
+    <p></p>
+    
 <figure class="half">
   <a href="https://drive.google.com/uc?id=1-5kPg7xyXR4H5OsY4fyeqZakatcYO90L" class="image-popup">
     <img src="https://drive.google.com/uc?id=1-5kPg7xyXR4H5OsY4fyeqZakatcYO90L" alt="">
