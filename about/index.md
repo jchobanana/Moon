@@ -21,6 +21,16 @@ Forever traumatized since 2016.
 I will come up with a more serious bio when I have a better idea of what I am doing. 
 
 
+## Exhibitions
+2018  **Bad Video Art Festival**, Curated by Natalia Monakhova & Andrey Slaschilin | A3 Gallery, Moscow, Russia <br>
+<p></p>
+2018  **The Annual**, Curated by Giannella Ysasi Tavano & Neil O'Malley | SAIC MacLean Center, Chicago, IL <br>
+<p></p>
+2016  **Inside Enclosures**, 11F Bookstore | Taoyuan, Taiwan <br>
+<p></p>
+2015  **A180 Showcase**, UC Berkeley Kroeber Hall | Berkeley, CA <br>    
+<p></p>
+
 ## Education 
 * 2018  School of the Art Institute of Chicago <br>
     Post-Baccalaureate in Painting & Drawing
@@ -32,15 +42,7 @@ I will come up with a more serious bio when I have a better idea of what I am do
     B.A. in Development Studies (double-major in Political Science) 
     <p></p>
 
-## Exhibitions
-2018  **Bad Video Art Festival**, Curated by Natalia Monakhova & Andrey Slaschilin, A3 Gallery, Moscow, Russia <br>
-<p></p>
-2018  **The Annual**, Curated by Giannella Ysasi Tavano & Neil O'Malley, SAIC MacLean Center, Chicago, IL <br>
-<p></p>
-2016  **Inside Enclosures**, 11F Bookstore, Taoyuan, Taiwan <br>
-<p></p>
-2015  **A180 Showcase**, Kroeber Hall, Berkeley, CA <br>    
-<p></p>
+
     
 <figure class="half">
   <a href="https://drive.google.com/uc?id=1-5kPg7xyXR4H5OsY4fyeqZakatcYO90L" class="image-popup">
