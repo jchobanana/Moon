@@ -7,8 +7,6 @@ comments: false
 ---
     
 <center><a href="https://www.instagram.com/jjjcho/"><b>Jaye</b></a> is an artist wannabe who accidentally got into some prestigious MFA programs in 2018.  </center>
-<center>However, she decided to enroll in a 1-year business school program in Japan instead just to make herself a (serious) joke. </center>
-
 
 ## About  
 Born in 1992 Taiwan on Shakespeare Day. <br>
@@ -35,13 +33,13 @@ I will come up with a more serious bio when I have a better idea of what I am do
     <p></p>
 
 ## Exhibitions
-* 2018  Bad Video Art Festival, Curated by Natalia Monakhova & Andrey Slaschilin, A3 Gallery, Moscow, Russia
+2018  **Bad Video Art Festival**, Curated by Natalia Monakhova & Andrey Slaschilin, A3 Gallery, Moscow, Russia
     <p></p>
-* 2018  The Annual, Curated by Giannella Ysasi Tavano & Neil O'Malley, SAIC MacLean Center, Chicago, IL
+2018  **The Annual**, Curated by Giannella Ysasi Tavano & Neil O'Malley, SAIC MacLean Center, Chicago, IL
     <p></p>
-* 2016  Inside Enclosures, 11F Bookstore, Taoyuan, Taiwan
+2016  **Inside Enclosures**, 11F Bookstore, Taoyuan, Taiwan
     <p></p>
-* 2015  A180 Showcase, Kroeber Hall, Berkeley, CA    
+2015  **A180 Showcase**, Kroeber Hall, Berkeley, CA    
     <p></p>
     
 <figure class="half">
