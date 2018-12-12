@@ -13,7 +13,7 @@ comments: false
 <br>
 <br>
 
-Here's [The Annual Official Website.](http://sites.saic.edu/postbac2018/artist/jaye-tc-cho/)
+<center> Here's [The Annual Official Website.](http://sites.saic.edu/postbac2018/artist/jaye-tc-cho/) </center>
 
 <br>
 <figure>
