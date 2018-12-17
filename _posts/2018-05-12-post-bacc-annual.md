@@ -13,13 +13,16 @@ comments: false
 <br>
 <br>
 <br>
+
+Here's [The Annual Official Website.](http://sites.saic.edu/postbac2018/artist/jaye-tc-cho/)
+<br>
+
 <figure>
 	<a href="https://drive.google.com/uc?id=1t8thOZtWve-HfYMn07Fg5uEjMieaAwm-" class="image-popup"><img src="https://drive.google.com/uc?id=1t8thOZtWve-HfYMn07Fg5uEjMieaAwm-"></a>
-    <figcaption> A Pre-Show Critique with Arnold J. Kemp, Rebecca Walz, Doug Stapleton, Susan Kraut, and Tyson Reeder</figcaption>
+    <figcaption> Pic: A Pre-Show Critique with Arnold J. Kemp, Rebecca Walz, Doug Stapleton, Susan Kraut, and Tyson Reeder</figcaption>
 </figure>
 <br>
 <br>
-Here's [The Annual Official Website.](http://sites.saic.edu/postbac2018/artist/jaye-tc-cho/)
 
 <br>
 <br>
