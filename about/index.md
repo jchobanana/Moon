@@ -22,8 +22,8 @@ I will come up with a more serious bio when I have a better idea of what I am do
 
 
 ## Exhibitions
-2918  **Bad Video Art Festival**, Zverev Center of Contemporary Art | Moscow, Russia <br>
-<p></P>
+2019  **Bad Video Art Festival**, Zverev Center of Contemporary Art | Moscow, Russia <br>
+<p></p>
 2018  **Bad Video Art Festival**, Curated by Natalia Monakhova & Andrey Slaschilin | A3 Gallery, Moscow, Russia <br>
 <p></p>
 2018  **The Annual**, Curated by Giannella Ysasi Tavano & Neil O'Malley | SAIC MacLean Center, Chicago, IL <br>
