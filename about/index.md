@@ -6,7 +6,7 @@ date: 2018-04-17
 comments: false
 ---
     
-<center><a href="https://www.instagram.com/jjjcho/"><b>Jaye</b></a> is an artist wannabe who accidentally got into some prestigious MFA programs in 2018.  </center>
+<center><a href="https://www.instagram.com/jjjcho/"><b>Jaye</b></a> is an artist wannabe who accidentally got into some prestigious MFA programs.  </center>
 
 ## About  
 Born in 1992 Taiwan on Shakespeare Day. <br>
@@ -18,8 +18,7 @@ Still very lost in life.
 Know a little bit of many things, but not an expert on anything. <br>
 Forever traumatized since 2016.
 <p></p>
-I will come up with a more serious bio when I have a better idea of what I am doing. 
-
+Current work is all about trying to give up but not giving up.
 
 ## Exhibitions
 2019  **Bad Video Art Festival**, Zverev Center of Contemporary Art | Moscow, Russia <br>
@@ -34,16 +33,15 @@ I will come up with a more serious bio when I have a better idea of what I am do
 <p></p>
 
 ## Education 
-* 2018  School of the Art Institute of Chicago <br>
-    Post-Baccalaureate in Painting & Drawing
+* 2021  School of the Art Institute of Chicago <br>
+    MFA Candidate in Painting & Drawing
     <p></p>
 * 2017  ArtCenter College of Design <br>
     BFA Summer Courses 
     <p></p>
 * 2015  University of California, Berkeley <br>
-    B.A. in Development Studies (double-major in Political Science) 
+    BA in Development Studies (double-major in Political Science) 
     <p></p>
-
 
     
 <figure class="half">
@@ -53,5 +51,5 @@ I will come up with a more serious bio when I have a better idea of what I am do
   <a href="https://drive.google.com/uc?id=1aIxrh_2SYjI5YdwW1wmRed2RhbPupt9A" class="image-popup">
     <img src="https://drive.google.com/uc?id=1aIxrh_2SYjI5YdwW1wmRed2RhbPupt9A" alt="">
   </a>
-  <figcaption> Divine Guardians of Doors & Me </figcaption>
+  <figcaption> Divine Guardians of Doors & Me (2017) </figcaption>
 </figure>
