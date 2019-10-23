@@ -7,11 +7,9 @@ comments: false
 ---
     
 <center><a href="https://www.instagram.com/jjjcho/"><b>Jaye</b></a> is an artist wannabe who accidentally got into some prestigious MFA programs.  </center>
-<br>
 <figure>
 	<a href="https://drive.google.com/uc?id=1usVpxProt6Pdu_7W41qpssf7WHSk0jLq" class="image-popup"><img src="https://drive.google.com/uc?id=1usVpxProt6Pdu_7W41qpssf7WHSk0jLq"></a>
 </figure>
-<br>
 ## About  
 Born in 1992 Taiwan on Shakespeare Day. <br>
 Hated by most teachers in her childhood. **Socially awkward (very).**
