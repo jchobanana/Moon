@@ -7,7 +7,12 @@ comments: false
 ---
     
 <center><a href="https://www.instagram.com/jjjcho/"><b>Jaye</b></a> is an artist wannabe who accidentally got into some prestigious MFA programs.  </center>
-
+<br>
+<figure>
+	<a href="https://drive.google.com/uc?id=1usVpxProt6Pdu_7W41qpssf7WHSk0jLq" class="image-popup"><img src="https://drive.google.com/uc?id=1usVpxProt6Pdu_7W41qpssf7WHSk0jLq"></a>
+	<figcaption> March 2018 </figcaption>
+</figure>
+<br>
 ## About  
 Born in 1992 Taiwan on Shakespeare Day. <br>
 Hated by most teachers in her childhood. **Socially awkward (very).**
@@ -53,9 +58,3 @@ Current work is all about trying to give up but not giving up.
   </a>
   <figcaption> Divine Guardians of Doors & Me (2017) </figcaption>
 </figure>
-<br>
-<figure>
-	<a href="https://drive.google.com/uc?id=1usVpxProt6Pdu_7W41qpssf7WHSk0jLq" class="image-popup"><img src="https://drive.google.com/uc?id=1usVpxProt6Pdu_7W41qpssf7WHSk0jLq"></a>
-	<figcaption> March 2018 </figcaption>
-</figure>
-
