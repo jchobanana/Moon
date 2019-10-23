@@ -43,7 +43,7 @@ Current work is all about trying to give up but not giving up.
     BA in Development Studies (double-major in Political Science) 
     <p></p>
 
-    
+
 <figure class="half">
   <a href="https://drive.google.com/uc?id=1-5kPg7xyXR4H5OsY4fyeqZakatcYO90L" class="image-popup">
     <img src="https://drive.google.com/uc?id=1-5kPg7xyXR4H5OsY4fyeqZakatcYO90L" alt="">
@@ -53,3 +53,9 @@ Current work is all about trying to give up but not giving up.
   </a>
   <figcaption> Divine Guardians of Doors & Me (2017) </figcaption>
 </figure>
+<br>
+<figure>
+	<a href="https://drive.google.com/uc?id=1usVpxProt6Pdu_7W41qpssf7WHSk0jLq" class="image-popup"><img src="https://drive.google.com/uc?id=1usVpxProt6Pdu_7W41qpssf7WHSk0jLq"></a>
+	<figcaption> March 2018 </figcaption>
+</figure>
+
