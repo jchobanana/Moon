@@ -10,7 +10,6 @@ comments: false
 <br>
 <figure>
 	<a href="https://drive.google.com/uc?id=1usVpxProt6Pdu_7W41qpssf7WHSk0jLq" class="image-popup"><img src="https://drive.google.com/uc?id=1usVpxProt6Pdu_7W41qpssf7WHSk0jLq"></a>
-	<figcaption> March 2018 </figcaption>
 </figure>
 <br>
 ## About  
