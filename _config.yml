@@ -1,12 +1,12 @@
 # Site
 title:              Jaye TC Cho
-bio:                'Chicago-based artist wannabe'
+bio:                'desperate artist wannabe'
 description:        "Taiwan/US-based nomad"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/photo_2019-10-08 21.39.19.jpeg'
-background:         'assets/img/bold.jpg'
-tiled_bg:           true   # Set this true if you want to tile your background image, otherwise it will be covered
+background:         'assets/img/sink.jpg'
+tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://jchobanana.github.io
 
