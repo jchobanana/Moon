@@ -20,7 +20,7 @@ Still very lost in life.
 Know a little bit of many things, but not an expert on anything. <br>
 Forever traumatized since 2016.
 <p></p>
-Current work is all about trying to give up but not giving up.
+**Current work is all about trying to give up but not giving up.**
 
 ## Exhibitions
 2019  **Bad Video Art Festival**, Zverev Center of Contemporary Art | Moscow, Russia <br>
@@ -38,7 +38,7 @@ Current work is all about trying to give up but not giving up.
 * 2021  School of the Art Institute of Chicago <br>
     MFA Candidate in Painting & Drawing
     <p></p>
-* 2017  ArtCenter College of Design <br>
+* 2017  ArtCenter College of Design, Pasadena <br>
     BFA Summer Courses 
     <p></p>
 * 2015  University of California, Berkeley <br>
@@ -50,8 +50,8 @@ Current work is all about trying to give up but not giving up.
   <a href="https://drive.google.com/uc?id=1-5kPg7xyXR4H5OsY4fyeqZakatcYO90L" class="image-popup">
     <img src="https://drive.google.com/uc?id=1-5kPg7xyXR4H5OsY4fyeqZakatcYO90L" alt="">
   </a>
-  <a href="https://drive.google.com/uc?id=1aIxrh_2SYjI5YdwW1wmRed2RhbPupt9A" class="image-popup">
-    <img src="https://drive.google.com/uc?id=1aIxrh_2SYjI5YdwW1wmRed2RhbPupt9A" alt="">
+  <a href="https://drive.google.com/uc?id=1f5baN6HhPWsDu9wlxFUOmPqN6j1BfnUM" class="image-popup">
+    <img src="https://drive.google.com/uc?id=1f5baN6HhPWsDu9wlxFUOmPqN6j1BfnUM" alt="">
   </a>
-  <figcaption> Divine Guardians of Doors & Me (2017) </figcaption>
+  <figcaption> Divine Guardians of Doors (2017) & Object (2019) </figcaption>
 </figure>
