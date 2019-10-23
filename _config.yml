@@ -5,7 +5,7 @@ description:        "Taiwan/US-based nomad"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/photo_2019-10-22 23.50.42.png'
-background:         'assets/img/money.jpg'
+background:         '#f0f0f0' #'assets/img/money.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://jchobanana.github.io
