@@ -2,11 +2,11 @@
 layout: page
 title: Jaye TC Cho
 tags: [about]
-date: 2018-04-17
+date: 2020-09-01
 comments: false
 ---
     
-<center><a href="https://www.instagram.com/jjjcho/"><b>Jaye</b></a> is an artist wannabe who accidentally got into some prestigious MFA programs.  </center>
+<center><a href="https://www.instagram.com/jjjcho/"><b>Jaye</b></a> is a socially awkward artist wannabe currently in Chicago.  </center>
 <figure>
 	<a href="https://drive.google.com/uc?id=1usVpxProt6Pdu_7W41qpssf7WHSk0jLq" class="image-popup"><img src="https://drive.google.com/uc?id=1usVpxProt6Pdu_7W41qpssf7WHSk0jLq"></a>
 </figure>
@@ -18,11 +18,13 @@ Was very lost in life.
 Still very lost in life.
 <p></p>
 Know a little bit of many things, but not an expert on anything. <br>
-Forever traumatized since 2016.
 <p></p>
-**Current work is all about trying to give up but not giving up.**
+**Current work is all over the place and lack of focus and style.**
 
 ## Exhibitions
+
+2020 **Something Online that I already forgot**, The Web | COVID-19 Era <br>
+<p></p>
 2019  **Bad Video Art Festival**, Zverev Center of Contemporary Art | Moscow, Russia <br>
 <p></p>
 2018  **Bad Video Art Festival**, Curated by Natalia Monakhova & Andrey Slaschilin | A3 Gallery, Moscow, Russia <br>
@@ -34,12 +36,21 @@ Forever traumatized since 2016.
 2015  **A180 Showcase**, UC Berkeley Kroeber Hall | Berkeley, CA <br>    
 <p></p>
 
+## The Little Free Money I Accepted 
+2020 **Clay Morrison Scholarship**, School of the Art Institute of Chicago 
+2019 **Leon W Guggenheim Scholarship**, SAIC
+
+## Free Money that Stupid Me Gave Up On
+2018 **Lillian Disney Scholarship**
+2018 **Graduate Merit Scholarship**
+2016 **Leslie King Hammond Fellowship Award**
+
 ## Education 
 * 2021  School of the Art Institute of Chicago <br>
     MFA Candidate in Painting & Drawing
     <p></p>
 * 2017  ArtCenter College of Design, Pasadena <br>
-    BFA Summer Courses 
+    BFA Courses 
     <p></p>
 * 2015  University of California, Berkeley <br>
     BA in Development Studies (double-major in Political Science) 
