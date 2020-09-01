@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  " (something) technological"
+title:  "2017-18 | (something) Moving"
 excerpt: "I promoise most of my videos are very short. However, if you like watching longer videos, I got some of those for you, too."
 project: true
 tag:
