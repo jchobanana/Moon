@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Video Documentation is Harder Than Expected"
+title:  "2017 Video Documentation is Harder Than Expected"
 date:   2017-06-25
 excerpt: "I had my first cut of breathing sleeping bag documentation and it was terrible. Lesson Learned."
 tag:
