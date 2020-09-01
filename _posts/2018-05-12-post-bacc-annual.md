@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Non-MFAs Occupying MFA Space"
+title: "2018 Non-MFAs Occupying MFA Space"
 excerpt: "The Post-Bacc Annual"
 tags: [2018, murmur, postbacc, bad]
 comments: false
