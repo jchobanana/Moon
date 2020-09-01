@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  " Before Enlightenment"
+title:  " < 2017 | Before Enlightenment"
 excerpt: "Not supposed to show these, but keeping it here for my own guilty pleasure"
 project: true
 tag:
