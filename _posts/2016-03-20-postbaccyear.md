@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "7 Months in the Art School"
-date:   2016-03-15
+date:   2018-05-01
 excerpt: "my experience in the SAIC Post-Bacc program from 2017-2018"
 tag:
 - starting
