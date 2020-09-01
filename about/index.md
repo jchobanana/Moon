@@ -37,13 +37,13 @@ Know a little bit of many things, but not an expert on anything. <br>
 <p></p>
 
 ## The Little Free Money I Accepted 
-2020 **Clay Morrison Scholarship**, School of the Art Institute of Chicago 
-2019 **Leon W Guggenheim Scholarship**, SAIC
+2020 **Clay Morrison Scholarship**, School of the Art Institute of Chicago <br>
+2019 **Leon W Guggenheim Scholarship**, SAIC <br>
 
 ## Free Money that Stupid Me Gave Up On
-2018 **Lillian Disney Scholarship**
-2018 **Graduate Merit Scholarship**
-2016 **Leslie King Hammond Fellowship Award**
+2018 **Lillian Disney Scholarship** <br>
+2018 **Graduate Merit Scholarship** <br>
+2016 **Leslie King Hammond Fellowship Award** <br>
 
 ## Education 
 * 2021  School of the Art Institute of Chicago <br>
