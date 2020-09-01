@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "＠＃＄％＾＆＊！？"
+title:  "< 2018 | ＠＃＄％＾＆＊！？"
 excerpt: "something random that I happened to have a photo of"
 project: true
 tag:
