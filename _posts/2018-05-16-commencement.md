@@ -5,7 +5,7 @@ excerpt: "#Iamnotcryingyouarecrying"
 tags: [2018, murmur, postbacc, bad]
 comments: false
 ---
-<center> 2018/05/16 </center>
+<center> 2018/06/01 </center>
 <br>
 
 <center> This murmur is written in broken EngRish, grammaticasters please leave. </center>
@@ -14,7 +14,9 @@ comments: false
 <br>
 <br>
 
-So, my friends came to my commencement. One of them never have a chance to walk the commencement stage, so I offered her the opportunity to do it for me. While the security was strict, nobody realized she's not the asian on the photo id. 
+So, last month, my friends came to Chicago for my commencement. One of them never had the chance to walk the commencement stage, so I offered her the opportunity to do it for me. While the security was strict, nobody realized she was not the asian on my student id. Woohoo. It was all fun until I realized nobody realized this little prank we did loll The Dean of the Graduate Studies was just in my crit a day ago, and we had some personal conversations. But nothing felt strange when he read my name and gave the diploma to my friend :D Of course, I know, it was probably a very tense situation for them, since they are all just really focus and trying to pronounce the names correctly. So yea, no offend taken, just thought to make fun of it for my personal pleassure. 
+
+<br>
 <br>
 
 <figure>
@@ -33,8 +35,10 @@ Here's the whole recording uploaded by the school:
 <figcaption> "Me" at 1:47:05 </figcaption>
 
 <br>
+<br>
+<br>
 
-Heading to Taiwan, Israel, Palestine and Japan in few weeks. Bye Chicago 
+Heading to Taiwan, Israel, Palestine and Japan in few weeks. Bye, Chicago, not sure if I will ever see you again, it was a great 7 months. 
 
 -------------------------
 
