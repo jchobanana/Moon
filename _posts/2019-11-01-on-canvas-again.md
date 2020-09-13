@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2019 | (whatever) on canvas"
+title:  "2019 | Pay Strangers to [buy] My [artworks]"
 excerpt: "1st year MFA in Painting & Drawing"
 project: true
 tag:
@@ -27,11 +27,7 @@ comments: false
 	<a href="https://drive.google.com/uc?id=1TWrF6Uxgkt7asDhTQ-iTFNankJqZaAeJ" class="image-popup"><img src="https://drive.google.com/uc?id=1TWrF6Uxgkt7asDhTQ-iTFNankJqZaAeJ"></a>
 </figure>
 <br>
-<figure>
-	<a href="https://drive.google.com/uc?id=1ojjjqw2KZkNI8vO_MQp9x6hEivaharNW" class="image-popup"><img src="https://drive.google.com/uc?id=1ojjjqw2KZkNI8vO_MQp9x6hEivaharNW"></a>
-</figure>
 
-<br>
 <figure>
 	<a href="https://drive.google.com/uc?id=1iKvLLBHmIR7Jj3VP_bT9KDKsa0eOs1wP" class="image-popup"><img src="https://drive.google.com/uc?id=1iKvLLBHmIR7Jj3VP_bT9KDKsa0eOs1wP"></a>
 </figure>
@@ -45,10 +41,25 @@ comments: false
 <br>
 <br>
 <figure>
+	<a href="https://drive.google.com/uc?id=10mRXg-TFA3MjufkME413Ja1n1fZE_knA" class="image-popup"><img src="https://drive.google.com/uc?id=10mRXg-TFA3MjufkME413Ja1n1fZE_knA"></a>
+</figure>
+
+<br>
+
+<figure>
 	<a href="https://drive.google.com/uc?id=1rsPqqhbo0eAQZ7ssHgVx5_e3jclNuu1Y" class="image-popup"><img src="https://drive.google.com/uc?id=1rsPqqhbo0eAQZ7ssHgVx5_e3jclNuu1Y"></a>
 </figure>
 
 <br>
+
+<figure>
+	<a href="https://drive.google.com/uc?id=1YaWJGKGHbKpNXnuNpvxhX1fMThdYRqHc" class="image-popup"><img src="https://drive.google.com/uc?id=1YaWJGKGHbKpNXnuNpvxhX1fMThdYRqHc"></a>
+</figure>
+
+<br>
+
+
+and many more...
 
 
 
