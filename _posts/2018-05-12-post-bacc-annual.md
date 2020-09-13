@@ -31,6 +31,7 @@ Another perspective of the work:
 <br>
 <figure>
 	<a href="https://drive.google.com/uc?id=1sm8v4MNcbdAa1nDECROQw4D4y100qHSR" class="image-popup"><img src="https://drive.google.com/uc?id=1sm8v4MNcbdAa1nDECROQw4D4y100qHSR"></a>
+    <a href="https://drive.google.com/uc?id=1POBWLAZn_AjQQDAdzdJB-j-AKhe_Q7BR" class="image-popup"><img src="https://drive.google.com/uc?id=1POBWLAZn_AjQQDAdzdJB-j-AKhe_Q7BR"></a>
     <figcaption>some hidden stuff under the abandoned sink, for the kids who were bored during the show</figcaption>
 </figure>
 <br>
