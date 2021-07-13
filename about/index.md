@@ -26,7 +26,7 @@ Know a little bit of many things, but not an expert on anything. <br>
 <p></p>
 2021   **Graduate Thesis Exhibition**, SAIC Galleries | Chicago, IL <br>
 <p></p>
-2020   **Something Online that I already forgot**, The Web | COVID-19 Era <br>
+2020   **Something Online I Already Forgot**, The Web | COVID-19 Era <br>
 <p></p>
 2019   **Bad Video Art Festival**, Zverev Center of Contemporary Art | Moscow, Russia <br>
 <p></p>
@@ -37,17 +37,14 @@ Know a little bit of many things, but not an expert on anything. <br>
 <br>
 ## Education 
 2021   M.F.A. Painting & Drawing | School of the Art Institute of Chicago <br>
-    <p></p>
 2015   B.A. Development Studies & B.A. Political Science | University of California, Berkeley <br>
-    <p></p>
 <br>
 
-## Thank you Thank you for the Free Money, I Love You.
+## Thank you Thank you My Dear Patrons, I Love You.
 2021   Silas H. Rhodes Scholarship | New York, NY <br>
 2021   TOSA Graduate Scholarship | New York, NY <br>
 2021   Albert Krehbiel Scholarship | Chicago, IL <br>
 2020   Clay Morrison Scholarship | Chicago, IL <br>
 2019   Leon W Guggenheim Scholarship | Chicago, IL <br>
 2018   Lillian Disney Scholarship | Valencia, CA <br>
-
 <br>
