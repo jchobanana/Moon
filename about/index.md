@@ -19,6 +19,12 @@ Still very lost in life.
 <p></p>
 Know a little bit of many things, but not an expert on anything. <br>
 <p></p>
+<br>
+
+## Education 
+2021   M.F.A. Painting & Drawing | School of the Art Institute of Chicago <br>
+2015   B.A. Development Studies & B.A. Political Science | University of California, Berkeley <br>
+<br>
 
 ## Group Exhibitions
 
@@ -34,10 +40,6 @@ Know a little bit of many things, but not an expert on anything. <br>
 <p></p>
 2018   **The Annual**, Curated by Giannella Ysasi Tavano & Neil O'Malley | SAIC MacLean Center, Chicago, IL <br>
 <p></p>
-<br>
-## Education 
-2021   M.F.A. Painting & Drawing | School of the Art Institute of Chicago <br>
-2015   B.A. Development Studies & B.A. Political Science | University of California, Berkeley <br>
 <br>
 
 ## Thank you Thank you My Dear Patrons, I Love You.
