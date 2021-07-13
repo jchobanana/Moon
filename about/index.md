@@ -2,11 +2,11 @@
 layout: page
 title: Jaye TC Cho
 tags: [about]
-date: 2020-09-01
+date: 2021-07-01
 comments: false
 ---
     
-<center><a href="https://www.instagram.com/jjjcho/"><b>Jaye</b></a> is a socially awkward artist.  </center>
+<center><a href="https://www.instagram.com/jjjcho/"><b>Jaye</b></a> is an artist, kinda.  </center>
 <figure>
 	<a href="https://drive.google.com/uc?id=1usVpxProt6Pdu_7W41qpssf7WHSk0jLq" class="image-popup"><img src="https://drive.google.com/uc?id=1usVpxProt6Pdu_7W41qpssf7WHSk0jLq"></a>
 </figure>
@@ -36,27 +36,18 @@ Know a little bit of many things, but not an expert on anything. <br>
 <p></p>
 
 ## Education 
-* 2021  School of the Art Institute of Chicago <br>
-    M.F.A. Painting & Drawing
+* 2021 M.F.A. Painting & Drawing | School of the Art Institute of Chicago <br>
     <p></p>
-* 2015  University of California, Berkeley <br>
-    B.A. Development Studies & B.A. Political Science
+* 2015  B.A. Development Studies & B.A. Political Science | University of California, Berkeley <br>
     <p></p>
+<br>
 
-## Thank you Thank you for the Free Money
-2021 Silas H. Rhodes Scholarship <br>
-2021 TOSA Graduate Scholarship <br>
-2021 Albert Krehbiel Scholarship <br>
-2020 Clay Morrison Scholarship <br>
-2019 Leon W Guggenheim Scholarship <br>
-2018 Lillian Disney Scholarship <br>
+## Thank you Thank you for the Free Money, I Love You.
+2021 Silas H. Rhodes Scholarship | New York, NY <br>
+2021 TOSA Graduate Scholarship | New York, NY <br>
+2021 Albert Krehbiel Scholarship | Chicago, IL <br>
+2020 Clay Morrison Scholarship | Chicago, IL <br>
+2019 Leon W Guggenheim Scholarship | Chicago, IL <br>
+2018 Lillian Disney Scholarship | Valencia, CA <br>
 
-<figure class="half">
-  <a href="https://drive.google.com/uc?id=1-5kPg7xyXR4H5OsY4fyeqZakatcYO90L" class="image-popup">
-    <img src="https://drive.google.com/uc?id=1-5kPg7xyXR4H5OsY4fyeqZakatcYO90L" alt="">
-  </a>
-  <a href="https://drive.google.com/uc?id=1f5baN6HhPWsDu9wlxFUOmPqN6j1BfnUM" class="image-popup">
-    <img src="https://drive.google.com/uc?id=1f5baN6HhPWsDu9wlxFUOmPqN6j1BfnUM" alt="">
-  </a>
-  <figcaption> Divine Guardians of Doors (2017) & Object (2019) </figcaption>
-</figure>
+<br>
